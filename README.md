@@ -7,6 +7,8 @@ any app, any part of the UI — read its hex/RGB/HSL, and copy it in one click.
   Uses the .NET Framework that ships with Windows.
 - Portable: copy `BitChroma.exe` anywhere and run it.
 
+![BitChroma in Windows](BitChroma.png)
+
 ## Build
 
 ```bash
